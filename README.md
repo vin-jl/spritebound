@@ -11,6 +11,7 @@ spritebound is a 2D open world adventure RPG. Defeat enemies and collect items o
 - Overworld items and interactables
 - Inventory management and menu system with 3+ equippable items
 - Fully modular OOP design
+- Efficient map loading system
 
 ... and more!
 
